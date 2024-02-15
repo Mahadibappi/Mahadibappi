@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahadi</h1>
+<img align="center" src="https://media.licdn.com/dms/image/C5616AQFQf_qU3HaIDw/profile-displaybackgroundimage-shrink_350_1400/0/1654234358427?e=1713398400&v=beta&t=vnueJJYwqg--WHrNmcpUnLocb9f4lcnC-uFlmBvo14E">
 <h3 align="center">An enthusiastic front-end developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Real-Estate Project](https://github.com/Mahadibappi/MERN-Real-Estate)
